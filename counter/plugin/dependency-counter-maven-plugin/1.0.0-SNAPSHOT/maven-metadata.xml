@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>com.counter</groupId>
+  <groupId>counter.plugin</groupId>
   <artifactId>dependency-counter-maven-plugin</artifactId>
   <versioning>
-    <lastUpdated>20250319181829</lastUpdated>
+    <lastUpdated>20250319185042</lastUpdated>
     <snapshot>
-      <timestamp>20250319.181829</timestamp>
+      <timestamp>20250319.185042</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20250319.181829-1</value>
-        <updated>20250319181829</updated>
+        <value>1.0.0-20250319.185042-1</value>
+        <updated>20250319185042</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250319.181829-1</value>
-        <updated>20250319181829</updated>
+        <value>1.0.0-20250319.185042-1</value>
+        <updated>20250319185042</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

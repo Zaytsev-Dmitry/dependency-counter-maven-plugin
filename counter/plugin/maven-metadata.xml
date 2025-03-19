@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>dependency-counter-maven-plugin</name>
+      <prefix>dependency-counter</prefix>
+      <artifactId>dependency-counter-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
