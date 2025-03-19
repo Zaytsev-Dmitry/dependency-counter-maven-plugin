@@ -1,6 +1,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Zaytsev-Dmitry/dependency-counter-maven-pluginVisits&countColor=%230c7ebe&style=flat&labelStyle=none)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
+### Run phase:
+ - COMPILE
+
 ### How to run:
 ```
 mvn counter.plugin:dependency-counter-maven-plugin:1.0.0-SNAPSHOT:calculate
