@@ -3,21 +3,21 @@
   <groupId>counter.plugin</groupId>
   <artifactId>dependency-counter-maven-plugin</artifactId>
   <versioning>
-    <lastUpdated>20250319191354</lastUpdated>
+    <lastUpdated>20250319203755</lastUpdated>
     <snapshot>
-      <timestamp>20250319.191354</timestamp>
+      <timestamp>20250319.203755</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20250319.191354-1</value>
-        <updated>20250319191354</updated>
+        <value>1.0.0-20250319.203755-1</value>
+        <updated>20250319203755</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250319.191354-1</value>
-        <updated>20250319191354</updated>
+        <value>1.0.0-20250319.203755-1</value>
+        <updated>20250319203755</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
